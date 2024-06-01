@@ -1,0 +1,39 @@
+Course Code: CS101
+Title: Introduction to Computer Science
+Description: Basic principles of computer science and programming.
+Credits: 4
+
+Course Code: MATH201
+Title: Calculus I
+Description: Introduction to calculus, including limits, derivatives, and integrals.
+Credits: 3
+
+Course Code: PHYS101
+Title: General Physics I
+Description: Basic principles of physics, including mechanics and thermodynamics.
+Credits: 4
+
+Course Code: ENG102
+Title: English Composition
+Description: Focus on writing and composition skills for academic purposes.
+Credits: 3
+
+Course Code: BIO103
+Title: Biology I
+Description: Introduction to the principles of biology, including cell structure and function.
+Credits: 4
+
+Course Code: CHEM101
+Title: General Chemistry I
+Description: Introduction to the principles of chemistry, including atomic structure and chemical reactions.
+Credits: 4
+
+Course Code: HIST101
+Title: World History
+Description: Survey of major events and themes in world history.
+Credits: 3
+
+Course Code: PSY101
+Title: Introduction to Psychology
+Description: Overview of psychological theories and principles.
+Credits: 3
